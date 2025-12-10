@@ -1,10 +1,10 @@
 # Modular-Robotic-Arm
-An open source robotic arm project based on 3D printed modular joints which can be configured into a 5/6/7 DoF arm. the design is based on a 2 DoF module which can be cascaded together to form an arm with varying DoF. A seperate single actuator can be attached to the end to create odd DoF. The design was inspired by UC Berkeley [Project Blue](https://rll.berkeley.edu/blue/).
+An open source robotic arm project based on 3D printed modular joints which can be configured into a 5/6/7 DoF arm. the design is based on a 2 DoF module which can be cascaded together to form an arm with varying DoF. A seperate single actuator can be attached to the end to create odd DoF. The design was inspired by UC Berkeley [Project Blue](https://rll.berkeley.edu/blue/). The design is done in Fusion 360 and the source files are in .f3z format.
 
 <img width="749" height="718" alt="image" src="https://github.com/user-attachments/assets/59189839-7d13-498c-aa18-8a00f74b933a" />
 
 ## Single Module
-the single module uses diffirential bevel gear design with 1:6 gear reduction making it a Qausi Direct drive design with good back drivability. 
+the single module uses diffirential bevel gear design with 1:6 gear reduction making it a Qausi Direct drive design with good back drivability.
 <img width="854" height="674" alt="image" src="https://github.com/user-attachments/assets/f017d615-cd7c-47e0-b7fe-f9c69f0eda1d" />
 
 ### Prototype of the design. 
